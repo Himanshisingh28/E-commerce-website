@@ -2,7 +2,7 @@ import React from 'react'
 import './CSS/Login_Signup.css'
 
 
-const Login_Signup = () => {
+const LoginSignup = () => {
   return (
     <div className='loginsignup'>
       <div className="loginsignup-container">
@@ -26,4 +26,4 @@ const Login_Signup = () => {
   )
 }
 
-export default Login_Signup
+export default LoginSignup
