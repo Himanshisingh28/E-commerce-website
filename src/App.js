@@ -11,7 +11,7 @@ import LoginSignup from './pages/LoginSignup.jsx';
 import men_banner from './Components/Assets/Assets/banner_mens.png';
 import women_banner from './Components/Assets/Assets/banner_women.png';
 import kids_banner from './Components/Assets/Assets/banner_kids.png';
-import ShopContextProvider from './Context/ShopContext';
+// import ShopContextProvider from './Context/ShopContext';
 
 function App() {
   return (
